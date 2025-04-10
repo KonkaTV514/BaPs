@@ -13,7 +13,7 @@ jobs:
     - name: Sync BaPs
       uses: actions/checkout@v3
       with:
-        repository: gucooing/BaPs
+        repository: KonkaTV514/BaPs
         ref: "main"
         fetch-depth: 0
 
